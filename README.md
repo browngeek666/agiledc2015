@@ -12,7 +12,7 @@ Well :hankey:
 - The CALMS framework: Guiding Principles and Enabling Practices
 - Roadmap to adoption
 - Q & A
-- 
+
 ##Learning Outcome
 - Introduce DevOps to the uninitiated
 - Demystify the terminology and techno-centric jargon
