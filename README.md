@@ -11,6 +11,7 @@ If you are looking for a recipe (pun intended) for success, then this session wi
  In this session targeted towards beginners, we will explore these ideas and principles, framing our conversation within the context of the nascent and evolving CALMS framework and look at what it means to extend  "traditional agile" principles beyond the boundaries of the code to the entire delivered service.  After-all, isn't the principal Agile credo about satisfying the customer through early and continuous delivery of valuable software?
 
 Well :hankey:
+POPP
 
 ##Outline/Structure of the Session
 - The rise of the DevOps movement - A journey line
